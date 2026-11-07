@@ -4,7 +4,7 @@ Wi-Fi signal-quality diagnostics
 ## Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="ESP32 CSI Web Dashboard" width="850">
+  <img src="Screenshots/dashboard.png" alt="ESP32 CSI Web Dashboard" width="850">
 </p>
 
 <p align="center">
